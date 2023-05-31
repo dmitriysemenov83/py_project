@@ -1,2 +1,8 @@
 def addition(x, y):
-    return x + y
+    result = x + y
+    return result
+
+
+def subtraction(x, y):
+    result = x - y
+    return result
